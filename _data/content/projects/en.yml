@@ -4,27 +4,27 @@
 ###########################################################
 page_data:
   main:
-    header: "Projects"
-    info: "Your Project page description."
+    header: "Research"
+   #  info: ""
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     img: ":projects-heading.jpg"
     back_color: "lightblue"
 
   category:
-    - title: "Example"
-      type: id_example
+    - title: "Working papers"
+      type: id_workingpapers
       color: "gray"
-    - title: "Picture"
-      type: id_picture
+    - title: "Work in progress"
+      type: id_workprogress
       color: "#62b462"
-    - title: "Quote"
-      type: id_quote
-      color: "#2FD0ED"
+   # - title: "Quote"
+   #   type: id_quote
+    #  color: "#2FD0ED"
 
   list:
     # example
-    - type: id_example
+    - type: id_workingpapers
       project_name: "Example Project"
       project_excerpt: "Examples"
       img: ":project1_thumb.jpg"
@@ -172,7 +172,7 @@ page_data:
         ```
 
     # picture
-    - type: id_picture
+    - type: id_workprogress
       project_name: "Example Project"
       project_excerpt: "Picture"
       img: ":project2_thumb.jpg"
@@ -184,13 +184,4 @@ page_data:
 
         ![Image](:project2_thumb.jpg)
 
-    # quote
-    - type: id_quote
-      project_name: "Example Project"
-      project_excerpt: "Albert Einstein"
-      img: ":project2_thumb.jpg"
-      img_title: "img title4"
-      date: "2021-06-08"
-      post: |
-        Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
 
