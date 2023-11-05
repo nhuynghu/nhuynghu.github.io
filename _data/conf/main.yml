@@ -29,10 +29,10 @@ language_switch_lang_list: [en]
 
 # if the opened page is not in the user's language list,
 # suggest language(s) matching with the one(s) in browser language list and user language list.
-language_translation_offer_box: false
+language_translation_offer_box: true
 
 # Disable 3rd party translation suggestion for pages with translation.
-language_translation_offer_disable_ext_translation: false
+language_translation_offer_disable_ext_translation: true
 
 # select one below
 # 1. slideBoxTopToDown
