@@ -46,15 +46,19 @@ page_data:
 
     # picture
     - type: id_workprogress
-      project_name: "Example Project"
-      project_excerpt: "Picture"
+      project_name: "The labour market impacts of high-educated immigrants on their native peers"
+      project_excerpt: ""
       img: ":project2_thumb.jpg"
       img_title: "img title2"
-      date: "2021-04-23"
+      date: "2023-10-01"
       post: |
-        # Title
-        This is project content.
-
-        ![Image](:project2_thumb.jpg)
+         > **Abstract** The presence of international graduates as a source of skilled labour has been growing in parallel with the increasing public concern 
+         of their impacts on the outcomes of domestic ones across receiving countries. In light of a significant and sustained increase followed by a decline 
+         in the supply of overseas students as results of migration policies reformation, this study leverages those exogenous changes to provide the effects
+         of overseas graduates on the employment opportunities and wage of their domestic peers. In general, overseas graduates are not likely to exert negative 
+         impacts on the employment opportunities and suppress wage of domestic graduates. Especially, during the period marked by a slowdown in the inflow of 
+         overseas students, a further decline in their supply could lead to around 12\% lower probabilities of employment for domestic graduates. 
+         The results reinforce the complementary effects between native and immigrants workers, particularly in a narrower yet important segment of the labour market. 
+         In this market, both native and immigrant workers are recent graduates, possessing similar levels and qualities of education, alongside comparable experience.
 
 
