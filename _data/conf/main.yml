@@ -193,9 +193,9 @@ side_and_top_nav_buttons:
     icon: "fa fa-archive"
   - projects:
     icon: "fa fa-cog"
- # - links:
- #   icon: "fa fa-link"
- - about:
+  - links:
+   icon: "fa fa-link"
+  - about:
    icon: "fa fa-user-o"
 
 # side nav toggle feature
