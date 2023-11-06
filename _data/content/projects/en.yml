@@ -27,7 +27,7 @@ page_data:
     - type: id_workingpapers
       project_name: "Risk Attitudes and Resilience of Trading Networks: Evidence from Smallholders in Vietnam"
       project_excerpt: ""
-      img: ":project1_thumb.jpg"
+      img: ":rice.png"
       img_title: "img title1"
       date: "2023-08-01"
       post: |
@@ -48,7 +48,7 @@ page_data:
     - type: id_workprogress
       project_name: "The labour market impacts of high-educated immigrants on their native peers"
       project_excerpt: ""
-      img: ":project2_thumb.jpg"
+      img: ":immigration.png"
       img_title: "img title2"
       date: "2023-11-01"
       post: |
