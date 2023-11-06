@@ -9,7 +9,7 @@ page_data:
     text_color: "white"
     # if you don't want to use background image, comment it. back_color will be activated.
     # img: ":projects-heading.jpg"
-    back_color: "blue"
+    back_color: "lightblue"
 
   category:
     - title: "Working papers"
@@ -25,22 +25,22 @@ page_data:
   list:
     # example
     - type: id_workingpapers
-      project_name: "Network Resilience, Risk Aversion, Procrastination and Gender Roles: Evidence From Vietnamese Vegetable Farming"
+      project_name: "Risk Attitudes and Resilience of Trading Networks: Evidence from Smallholders in Vietnam"
       project_excerpt: ""
       img: ":project1_thumb.jpg"
       img_title: "img title1"
-      date: ""
+      date: "2023-08-01"
       post: |
-        > **Abstract** We explore the relationship between behavioral factors, most notably risk aversion, procrastination and gender, 
-        and the resilience of trading networks in small scale rural farming in Vietnam. Rural farmers are highly dependent on intermediary 
-        traders to bring products to market. We survey farming households in three villages to obtain data on the trading network. 
-        In all three villages we find the network is not resilient with the typical farmer relying on one or two traders with whom they have 
-        traded for many years. We find some evidence that risk aversion is associated with a household engaging with fewer traders. 
-        We also find an effect on the gender, husband or wife, of the person in the household with most responsibility for trading decisions.
-        We argue that the use of smartphone technology to monitor crop quality in real time may help facilitate link formation in the network.
+        > **Abstract** This study explores the interplay between risk attitudes and trading network resilience of 
+        trading networks in small-scale rural farming communities in Vietnam. Leveraging survey data from farming 
+        households across three villages characterized by limited network resilience, we uncover evidence of a positive 
+        association between risk aversion and the number of engaged traders, while loss aversion exhibits a negative relationship. 
+        Conversely, in villages with fewer traders, we observe a positive correlation between procrastination and the number of trading links. 
+        These findings highlight the complex dynamics between behavioral factors and trading network resilience, underscoring 
+        the importance of considering village-specific dynamics when devising strategies to enhance network resilience in rural farming communities.
 
         **Link**
-        [Network Resilience, Risk Aversion, Procrastination and Gender Roles: Evidence From Vietnamese Vegetable Farming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4202646)
+        [Risk Attitudes and Resilience of Trading Networks: Evidence from Smallholders in Vietnam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4528537)
 
         
 
@@ -50,7 +50,7 @@ page_data:
       project_excerpt: ""
       img: ":project2_thumb.jpg"
       img_title: "img title2"
-      date: "2023-10-01"
+      date: "2023-11-01"
       post: |
          > **Abstract** The presence of international graduates as a source of skilled labour has been growing in parallel with the increasing public concern 
          of their impacts on the outcomes of domestic ones across receiving countries. In light of a significant and sustained increase followed by a decline 
