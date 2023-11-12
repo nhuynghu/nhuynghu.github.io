@@ -40,6 +40,6 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
-{{ Hi! }}
+ Hi! 
 
 {{ Welcome to my personal site! }}
