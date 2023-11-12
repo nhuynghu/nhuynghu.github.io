@@ -46,7 +46,7 @@ page_data:
 
     # picture
     - type: id_workprogress
-      project_name: "The labour market impacts of high-educated immigrants on their native peers"
+      project_name: "The Labour Market Impacts of High-educated Immigrants on Their Native Peers"
       project_excerpt: ""
       img: ":immigration.png"
       img_title: "img title2"
