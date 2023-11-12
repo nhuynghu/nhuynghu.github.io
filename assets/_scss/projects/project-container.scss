@@ -22,7 +22,7 @@
 }
 
 .project-heading-container p {
-  font-size: 1.7rem;
+  font-size: 0.7rem;
   font-weight: 300;
 }
 
@@ -36,7 +36,7 @@
 
 .project-container .project-img {
   position: relative;
-  margin-left: 5px;
+  margin-left: 0;
   display: block;
   float: left;
   z-index: 1;
@@ -45,10 +45,10 @@
 
 .project-container .project-img img {
   border-radius: 10px;
-  min-height: 100px;
-  min-width: 100px;
-  max-height: 100px;
-  max-width: 100px;
+  min-height: 120px;
+  min-width: 120px;
+  max-height: 120px;
+  max-width: 120px;
   object-fit: cover;
 }
 
