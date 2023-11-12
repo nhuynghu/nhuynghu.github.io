@@ -40,6 +40,9 @@ img: ":home-heading.jpg"
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
 {%- include util/auto-content-generator.liquid -%}
- Hi! 
+  
 
-{{ Welcome to my personal site! }}
+Hello! My name is NhuY, a Ph.D. Candidate in Economics at City, University of London. 
+My research centers on labour economics, with a specific focus on the outcomes of immigration and their potential effects. Additionally,
+I am interested in agricultural economics, in which my current study explores approaches to improve the income and welfare of households in rural areas.|
+You can find my CV here. 
