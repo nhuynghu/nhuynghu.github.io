@@ -64,8 +64,8 @@ page_data:
     - type: id_workprogress
       project_name: "Do Parental Socioeconomic Resources Operate the Same Way for Children Born to Natives and Immigrants?"
       project_excerpt: ""
-      img: ""
-      img_title: ""
+      img: ":opportunity.png"
+      img_title: "img title3"
       date: "2023-11-01"
       post: |
          > **Abstract** This study presents a comparative analysis of the association between the educational and occupational achievements of native and immigrant
@@ -78,8 +78,8 @@ page_data:
     - type: id_workprogress
       project_name: "The Effect of Immigration on Wages in the Presence of Educational Mismatch"
       project_excerpt: ""
-      img: ""
-      img_title: ""
+      img: ":high_low.png"
+      img_title: "img title4"
       date: "2023-11-01"
       post: |
     
