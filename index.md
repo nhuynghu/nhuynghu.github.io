@@ -35,8 +35,8 @@ img: ":home-heading.jpg"
 # to disable this page, simply set published: false or delete this file
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
 #published: false I have successfully defended my PhD thesis in Economics at City, University of London. 
-My research centers on the economics of immigration, with a focus on the outcomes of immigrants and their contributions to the labour market. Additionally,
-I am interested in development economics and agricultural economics, in which my current study explores approaches to improving the income and welfare of households in rural areas.
+# My research centers on the economics of immigration, with a focus on the outcomes of immigrants and their contributions to the labour market. Additionally,
+# I am interested in development economics and agricultural economics, in which my current study explores approaches to improving the income and welfare of households in rural areas.
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
