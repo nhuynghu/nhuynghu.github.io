@@ -34,9 +34,7 @@ img: ":home-heading.jpg"
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
-#published: false I have successfully defended my PhD thesis in Economics at City, University of London. 
-# My research centers on the economics of immigration, with a focus on the outcomes of immigrants and their contributions to the labour market. Additionally,
-# I am interested in development economics and agricultural economics, in which my current study explores approaches to improving the income and welfare of households in rural areas.
+#published: false 
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
@@ -44,5 +42,5 @@ img: ":home-heading.jpg"
 {%- include util/auto-content-generator.liquid -%}
   
 
-Hello! I am NhuY. 
+Hello! I’m NhuY, and I hold a PhD in Economics from the City, University of London. My research primarily focuses on labour economics, where I delve into the outcomes of immigrants and their impact on the labour market. I also have a keen interest in development economics. My current study is dedicated to exploring strategies for improving the income and welfare of households in rural areas.
 You can find my CV [here](https://drive.google.com/file/d/1sqlCezlMi8sMKFzMuORxrDf21jdf2m8p/view?usp=sharing). 
