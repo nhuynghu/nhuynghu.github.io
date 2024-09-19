@@ -42,5 +42,5 @@ img: ":home-heading.jpg"
 {%- include util/auto-content-generator.liquid -%}
   
 
-Hello! I’m NhuY, and I hold a PhD in Economics from the City, University of London. My research primarily focuses on labour economics, where I delve into the outcomes of immigrants and their impact on the labour market. I also have a keen interest in development economics. My current study is dedicated to exploring strategies for improving the income and welfare of households in rural areas.
+Hello! I’m NhuY, and I hold a PhD in Economics from the City, University of London. My research primarily focuses on labour economics, specifically exploring the outcomes of immigrants and their impact on the labour market. I also have a keen interest in development economics. My current study is dedicated to exploring strategies for improving the income and welfare of households in rural areas.
 You can find my CV [here](https://drive.google.com/file/d/1VsFrP9rf8JhriOIznu01Jd_W9VmVtAIg/view?usp=sharing). 
