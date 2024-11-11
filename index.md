@@ -42,5 +42,5 @@ img: ":home-heading.jpg"
 {%- include util/auto-content-generator.liquid -%}
   
 
-Hello! I’m NhuY, and I earned my PhD in Economics from City, University of London. My research primarily focuses on labour economics, specifically examining the outcomes of immigrants and their impact on the labour market. I also have a keen interest in development and behavioural economics, exploring and developing cost-effective strategies to foster sustainable socio-economic growth.
+Hello! I’m NhuY, and I completed my doctoral degree in Economics at City, University of London. My research primarily focuses on labour economics, specifically examining the outcomes of immigrants and their impact on the labour market. I also have a keen interest in development and behavioural economics, exploring and developing cost-effective strategies to foster sustainable socio-economic growth.
 You can find my CV [here](https://drive.google.com/file/d/1Fa-Ui2W1zG7fyF-Q5Td-faoBR6SgpnpU/view?usp=sharing). 
